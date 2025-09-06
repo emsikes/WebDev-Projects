@@ -32,7 +32,7 @@ Each project lives in its own folder with a clear name:
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/web-dev-learning.git
+   git clone https://github.com/emsikes/web-dev-learning.git
    cd web-dev-learning
    ```
 2. Navigate into any project folder
